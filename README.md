@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anubhav-goyal-549ab51b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anubhav-goyal-549ab51b9" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anubhav.goyal.397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anubhav.goyal.397" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anubhav-goyal-549ab51b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-goyal-549ab51b9" height="30" width="40" /></a>
+<a href="https://fb.com/anubhav.goyal.397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anubhav.goyal.397" height="30" width="40" /></a>
 <a href="https://instagram.com/bhav_the_best" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhav_the_best" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anugoyal998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anugoyal998" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anugoyal998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anugoyal998" height="30" width="40" /></a>
