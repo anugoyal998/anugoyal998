@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anugoyal998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k-F0vIIXsJwtAXkqRKVjYupwmYaELdgG/view](https://drive.google.com/file/d/1k-F0vIIXsJwtAXkqRKVjYupwmYaELdgG/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nvp-UN3TXjqdNZhQWlcNE94f9jStx1py/view?usp=sharing](https://drive.google.com/file/d/1nvp-UN3TXjqdNZhQWlcNE94f9jStx1py/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
